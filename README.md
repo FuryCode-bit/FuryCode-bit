@@ -1,6 +1,6 @@
 ### Olá Sou o Marco "Fury" Bernardes 🚀
 <div>
-  <img src="https://images8.alphacoders.com/115/1156488.png" alt="Italian Trulli">
+  <img height=180em src="https://images8.alphacoders.com/115/1156488.png" alt="Italian Trulli">
 </div>
 <div align="left">
   <a href="https://github.com/FuryCode-bit">
