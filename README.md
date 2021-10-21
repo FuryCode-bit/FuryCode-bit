@@ -1,8 +1,8 @@
 ### Olá Sou o Marco "Fury" Bernardes 🚀
 <div align="center">
   <a href="https://github.com/FuryCode-bit">
-  <img height=180em src="https://images8.alphacoders.com/115/1156488.png" alt="Italian Trulli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FuryCode-bit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" margin-left="20px" src="https://github-readme-stats.vercel.app/api?username=FuryCode-bit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height=180em margin-right="20px" src="https://images8.alphacoders.com/115/1156488.png" alt="Italian Trulli">
   </div>
 </div>
 <div style="display: inline_block"><br>
