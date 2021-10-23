@@ -1,9 +1,8 @@
 ### Olá Sou o Marco "Fury" Bernardes 🚀
-<div align="center">
+<div align="left">
   <a href="https://github.com/FuryCode-bit">
-  <img height="180em" style="margin-left:20px" src="https://github-readme-stats.vercel.app/api?username=FuryCode-bit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height=180em style="margin-left:20px" src="https://images8.alphacoders.com/115/1156488.png" alt="Italian Trulli">
-  </div>
+  <img height=180em style="margin-left:20px" src="https://images8.alphacoders.com/115/1156488.png" alt="Eat Code Sleep Repeat">
+ </div>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Fury-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
