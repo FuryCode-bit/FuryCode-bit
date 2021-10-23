@@ -1,7 +1,7 @@
 ### Olá Sou o Marco "Fury" Bernardes 🚀
 <div align="left">
   <a href="https://github.com/FuryCode-bit">
-  <img height=180em style="margin-left:20px" src="https://images8.alphacoders.com/115/1156488.png" alt="Eat Code Sleep Repeat">
+  <img height=200em src="https://images8.alphacoders.com/115/1156488.png" alt="Eat Code Sleep Repeat">
  </div>
 </div>
 <div style="display: inline_block"><br>
