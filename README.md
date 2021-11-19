@@ -1,4 +1,13 @@
 ### Olá Sou o Marco "Fury" Bernardes 🚀
+<p> Entusiasta da área das Tecnologias
+de Informação e Comunicação,
+sempre aberto ao desenvolvimento
+de novos projetos e participação de
+atividades extracurriculares, com
+especial interesse nas áreas de
+programação Web e Mobile,
+Cibersegurança e IoT.
+</p>
 <div align="left">
   <a href="https://github.com/FuryCode-bit">
   <img height=250em src="https://images8.alphacoders.com/115/1156488.png" alt="Eat Code Sleep Repeat">
