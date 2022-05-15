@@ -35,7 +35,7 @@
   
 <br/>
 <div style="display: flex;">
-  <div style="width: 50%; float: left;">
+  <div style="flex: 0 0 50%;">
     <a href="https://github.com/FuryCode-bit" style="margin-left: 20px;">
       <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=FuryCode-bit&theme=dracula&show_icons=true" /><br/>
     </a>
@@ -43,7 +43,7 @@
       <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuryCode-bit&theme=dracula&show_icons=true"/>
     </a>
    </div>
-   <div style="width: 50%; float: right;">
+   <div style="flex: 1;">
       <a href="https://app.daily.dev/Fury2K">
         <img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=qom" width="200" alt="Fury's Dev Card"/>
       </a>
