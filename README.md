@@ -8,7 +8,7 @@
 - 🌱 &nbsp; “The greatest successes come from having the freedom to fail” - Mark Zuckerberg
 
 
-**tools Used**
+<h3> :tools: &nbsp;tools Used </h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fury-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
