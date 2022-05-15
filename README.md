@@ -7,8 +7,7 @@
 - 💼 &nbsp; Fullstack Developer in the making at STAR Junior Enterprise
 - 🌱 &nbsp; “The greatest successes come from having the freedom to fail” - Mark Zuckerberg
 
-
-<h3> :tools: &nbsp;tools Used </h3>
+<h3> 🛠️ &nbsp;tools Used </h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fury-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -22,12 +21,13 @@
   <img align="center" alt="Fury-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
-**Utilities**
+<h3> 💡 &nbsp;Utilities </h3>
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **Developing Tools**
+<h3> ⚙️ &nbsp;Developing Tools </h3>
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
