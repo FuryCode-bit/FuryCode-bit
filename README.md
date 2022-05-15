@@ -34,17 +34,25 @@
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   
 <br/>
-
-<a href="https://github.com/FuryCode-bit" align="left" style="margin-left: 20px;">
-  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=FuryCode-bit&theme=dracula&show_icons=true" /><br/>
-</a>
-<a href="https://app.daily.dev/Fury2K" align="right">
-  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuryCode-bit&theme=dracula&show_icons=true"/>
-</a>
+<div style="display: flex;">
+  <div style="width: 50%; float: left;">
+    <a href="https://github.com/FuryCode-bit" style="margin-left: 20px;">
+      <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=FuryCode-bit&theme=dracula&show_icons=true" /><br/>
+    </a>
+    <a href="https://app.daily.dev/Fury2K">
+      <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuryCode-bit&theme=dracula&show_icons=true"/>
+    </a>
+   </div>
+   <div>
+      <a href="https://app.daily.dev/Fury2K">
+        <img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=qom" width="400" alt="Fury's Dev Card"/>
+      </a>
+   </div>
+</div>
 
 <br/>
 
-<h3> :earth_europe: &nbsp;Where can you find me: </h3> 
+<h3> 🌎: &nbsp;Where can you find me: </h3> 
 
 <div> 
   <a href="https://www.youtube.com/#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
