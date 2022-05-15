@@ -42,11 +42,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuryCode-bit&theme=dracula&show_icons=true"/>
 </a>
 
-<a href="https://app.daily.dev/Fury2K">
-  <img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=qom" width="200" alt="Fury's Dev Card"/>
-</a>
-
-
 <br/>
 
 <h3> :earth_europe: &nbsp;Where can you find me: </h3> 
