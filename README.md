@@ -35,10 +35,10 @@
   
 <br/>
 <a href="https://github.com/FuryCode-bit" style="margin-left: 20px;">
-  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=FuryCode-bit&theme=dracula&show_icons=true" />
+  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=FuryCode-bit&theme=dracula&show_icons=true"/>
 </a>
 <a href="https://app.daily.dev/Fury2K">
-  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuryCode-bit&theme=dracula&show_icons=true"/>
+  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuryCode-bit&theme=dracula&show_icons=true"/>
 </a>
 
 <br/>
