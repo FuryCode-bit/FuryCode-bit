@@ -43,13 +43,12 @@
       <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuryCode-bit&theme=dracula&show_icons=true"/>
     </a>
    </div>
-   <div style="flex: 1;">
-      <a href="https://app.daily.dev/Fury2K">
-        <img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=qom" width="200" alt="Fury's Dev Card"/>
-      </a>
-   </div>
 </div>
-
+<div style="flex: 1;">
+    <a href="https://app.daily.dev/Fury2K">
+      <img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=qom" width="200" alt="Fury's Dev Card"/>
+    </a>
+</div>
 <br/>
 
 <h3> 🌎: &nbsp;Where can you find me: </h3> 
