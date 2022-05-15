@@ -35,8 +35,9 @@
   
 <br/>
 
-<a href="https://github.com/FuryCode-bit" align="left">
+<a href="https://github.com/FuryCode-bit" align="left" style="margin-left: 20px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FuryCode-bit&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuryCode-bit&theme=dracula&show_icons=true"/>
 </a>
 <a href="https://app.daily.dev/Fury2K" align="right">
   <img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=qom" width="200" alt="Fury's Dev Card"/>
