@@ -34,16 +34,13 @@
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   
 <br/>
-<div>
-  <div style="flex: 0 0 50%;">
-    <a href="https://github.com/FuryCode-bit" style="margin-left: 20px;">
-      <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=FuryCode-bit&theme=dracula&show_icons=true" /><br/>
-    </a>
-    <a href="https://app.daily.dev/Fury2K">
-      <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuryCode-bit&theme=dracula&show_icons=true"/>
-    </a>
-   </div>
-</div>
+<a href="https://github.com/FuryCode-bit" style="margin-left: 20px;">
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=FuryCode-bit&theme=dracula&show_icons=true" /><br/>
+</a>
+<a href="https://app.daily.dev/Fury2K">
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuryCode-bit&theme=dracula&show_icons=true"/>
+</a>
+
 <div style="flex: 1;">
     <a href="https://app.daily.dev/Fury2K">
       <img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=qom" width="200" alt="Fury's Dev Card"/>
