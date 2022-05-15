@@ -34,7 +34,7 @@
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   
 <br/>
-<div style="display: flex;">
+<div>
   <div style="flex: 0 0 50%;">
     <a href="https://github.com/FuryCode-bit" style="margin-left: 20px;">
       <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=FuryCode-bit&theme=dracula&show_icons=true" /><br/>
