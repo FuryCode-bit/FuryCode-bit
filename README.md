@@ -7,7 +7,6 @@
 - 💼 &nbsp; Fullstack Developer in the making at STAR Junior Enterprise
 - 🌱 &nbsp; “The greatest successes come from having the freedom to fail” - Mark Zuckerberg
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **tools Used**
 
@@ -40,7 +39,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuryCode-bit&theme=dracula/>
 </a>
 <a href="https://app.daily.dev/Fury2K" align="right">
-  <img height="180em" src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=qom" width="400" alt="Fury's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=qom" width="200" alt="Fury's Dev Card"/>
 </a>
 
 <br/>
