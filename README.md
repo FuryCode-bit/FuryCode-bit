@@ -45,7 +45,7 @@
    </div>
    <div style="width: 50%; float: right;">
       <a href="https://app.daily.dev/Fury2K">
-        <img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=qom" width="400" alt="Fury's Dev Card"/>
+        <img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=qom" width="200" alt="Fury's Dev Card"/>
       </a>
    </div>
 </div>
