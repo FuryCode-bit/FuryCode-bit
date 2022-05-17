@@ -22,12 +22,12 @@
 </div>
 
 
-<br/><h3 style="margin-bottom: 15px"> 💡 &nbsp;Utilities </h3>
+<br/><h3 style="margin-bottom: 25px"> 💡 &nbsp;Utilities </h3>
 
   ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<br/><h3 style="margin-bottom: 15px"> ⚙️ &nbsp;Developing Tools </h3> <br>
+<br/><h3 style="margin-bottom: 25px"> ⚙️ &nbsp;Developing Tools </h3>
 
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
