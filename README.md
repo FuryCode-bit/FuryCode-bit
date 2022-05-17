@@ -22,12 +22,12 @@
 </div>
 
 
-<br/><h3> 💡 &nbsp;Utilities </h3> 
+<br/><h3> 💡 &nbsp;Utilities </h3> <br>
 
   ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<br/><h3> ⚙️ &nbsp;Developing Tools </h3> 
+<br/><h3> ⚙️ &nbsp;Developing Tools </h3> <br>
 
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -43,7 +43,7 @@
 
 <br/>
 
-<h3> 🌎: &nbsp;Where can you find me: </h3> 
+<h3> 🌎 &nbsp;Where can you find me: </h3> 
 
 <div> 
   <a href="https://www.youtube.com/#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
