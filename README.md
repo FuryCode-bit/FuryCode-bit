@@ -34,9 +34,7 @@
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   
 <br/>
-<a href="https://github.com/FuryCode-bit"">
-  <img width="400px" style="margin-right:"30px"; src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuryCode-bit&theme=dracula&show_icons=true"/>
-</a>
+
 <a href="https://app.daily.dev/Fury2K"><img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=ugd" width="200" alt="Fury's Dev Card"/></a>
 
 <br/>
