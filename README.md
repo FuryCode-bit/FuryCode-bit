@@ -7,6 +7,12 @@
 - 💼 &nbsp; Fullstack Developer in the making at STAR Junior Enterprise
 - 🌱 &nbsp; “The greatest successes come from having the freedom to fail” - Mark Zuckerberg
 
+<div align="left">
+   <a href="https://app.daily.dev/Fury2K">
+     <img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=ugd" width="400" align="right" alt="Fury's Dev Card"/>
+  </a>
+</div>
+
 <br/><h3> 🛠️ &nbsp;tools Used </h3>
 
 <div style="display: inline_block"><br>
@@ -20,14 +26,6 @@
   <img align="center" alt="Fury-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fury-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
-
-<div align="left">
-   <a href="https://app.daily.dev/Fury2K">
-     <img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=ugd" width="400" align="right" alt="Fury's Dev Card"/>
-  </a>
-</div>
-  
-
 
 <br/><h3 style="margin-bottom: 25px"> 💡 &nbsp;Utilities </h3>
 
