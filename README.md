@@ -23,7 +23,7 @@
 
 <div align="left">
    <a href="https://app.daily.dev/Fury2K">
-     <img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=ugd" width="256" align="right" alt="Fury's Dev Card"/>
+     <img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=ugd" width="400" align="right" alt="Fury's Dev Card"/>
   </a>
 </div>
   
