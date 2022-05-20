@@ -21,6 +21,13 @@
   <img align="center" alt="Fury-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
+<div align="left">
+   <a href="https://app.daily.dev/Fury2K">
+     <img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=ugd" width="256" align="right" alt="Fury's Dev Card"/>
+  </a>
+</div>
+  
+
 
 <br/><h3 style="margin-bottom: 25px"> 💡 &nbsp;Utilities </h3>
 
@@ -33,10 +40,6 @@
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   
-<br/>
-
-<a href="https://app.daily.dev/Fury2K"><img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=ugd" width="200" alt="Fury's Dev Card"/></a>
-
 <br/>
 
 <h3> 🌎 &nbsp;Where can you find me: </h3> 
