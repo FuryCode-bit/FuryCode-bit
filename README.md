@@ -39,6 +39,13 @@
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   
 <br/>
+<div>
+   <a href="https://github.com/FuryCode-bit">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuryCode-bit&layout=compact&theme=dracula">
+   </a>
+</div>
+
+<br>
 
 <h3> 🌎 &nbsp;Where can you find me: </h3> 
 
