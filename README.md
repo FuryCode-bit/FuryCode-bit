@@ -8,7 +8,7 @@
 - 🌱 &nbsp; “The greatest successes come from having the freedom to fail” - Mark Zuckerberg
 
 <div align="left">
-   <a href="https://app.daily.dev/Fury2K">
+   <a href="https://app.daily.dev/Fury2K" style="margin-top: 30px">
      <img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=ugd" width="400" align="right" alt="Fury's Dev Card"/>
   </a>
 </div>
