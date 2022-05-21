@@ -9,7 +9,7 @@
 
 <div align="left">
    <a href="https://app.daily.dev/Fury2K" style="margin-top: 30px">
-     <img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=ugd"><img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=two)" width="300" align="right" alt="Fury's Dev Card"/>
+     <img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=ugd" width="300" align="right" alt="Fury's Dev Card"/>
   </a>
 </div>
 
