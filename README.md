@@ -10,15 +10,15 @@
 
 <h3> 🛠️ &nbsp;Skill Set </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,mysql,kotlin,django,flask,spring,react,nodejs,express,html,css,js,jquery,firebase,c,wordpress,regex&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,mysql,kotlin,django,flask,spring,react,nodejs,express,html,css,js,jquery,firebase,c,git,regex&perline=9)](https://skillicons.dev)
 
 <h3 style="margin-bottom: 25px"> 💡 &nbsp;Utilities </h3>
 
-[![Utilities](https://skillicons.dev/icons?i=gcp,aws,arduino,raspberrypi,docker,postman)](https://skillicons.dev)
+[![Utilities](https://skillicons.dev/icons?i=gcp,aws,arduino,raspberrypi,docker,postman,wordpress)](https://skillicons.dev)
 
 <h3 style="margin-bottom: 25px"> ⚙️ &nbsp;Tools Used </h3>
 
-[![Tools](https://skillicons.dev/icons?i=vscode,idea,git,figma)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,idea,github,figma)](https://skillicons.dev)
 </div>
 <br/>
 <div align="left">
