@@ -18,7 +18,7 @@
         />
     </a>
 </div>
-
+<div align="left" style="width: 50%">
 <h3> 🛠️ &nbsp;tools Used </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,mysql,kotlin,django,flask,spring,react,nodejs,express,html,css,js,jquery,firebase,c,wordpress,regex&perline=6)](https://skillicons.dev)
@@ -35,3 +35,4 @@
 
 [![Tools](https://skillicons.dev/icons?i=vscode,idea,git,figma)](https://skillicons.dev)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+</div>
