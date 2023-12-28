@@ -14,7 +14,7 @@
 </div>
 
 <br/><h3> 🛠️ &nbsp;tools Used </h3>
-
+[![My Skills](https://skillicons.dev/icons?i=py.java.mysql.arduino.raspberrypi.docker.django.flask.spring.react.nodejs.express.wordpress)](https://skillicons.dev)
 <div style="display: inline_block"><br>
   <img align="center" alt="Fury-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fury-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
