@@ -8,7 +8,7 @@
 - 💼 &nbsp; Fullstack Developer in the making at STAR Junior Enterprise
 - 🌱 &nbsp; “The greatest successes come from having the freedom to fail” - Mark Zuckerberg
 
-<h3> 🛠️ &nbsp;tools Used </h3>
+<h3> 🛠️ &nbsp;Skill Set </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,mysql,kotlin,django,flask,spring,react,nodejs,express,html,css,js,jquery,firebase,c,wordpress,regex&perline=9)](https://skillicons.dev)
 
@@ -16,7 +16,7 @@
 
 [![Utilities](https://skillicons.dev/icons?i=gcp,aws,arduino,raspberrypi,docker,postman)](https://skillicons.dev)
 
-<h3 style="margin-bottom: 25px"> ⚙️ &nbsp;Developing Tools </h3>
+<h3 style="margin-bottom: 25px"> ⚙️ &nbsp;Tools Used </h3>
 
 [![Tools](https://skillicons.dev/icons?i=vscode,idea,git,figma)](https://skillicons.dev)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
