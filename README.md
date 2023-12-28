@@ -8,7 +8,7 @@
 - 🌱 "The greatest successes come from having the freedom to fail" - Mark Zuckerberg
 
 <div style="display: flex;">
-    <div style="width: 50%;">
+    <div style="width: 50%; align="left">
         <h2>Tools Used</h2>
         <a href="https://skillicons.dev/icons?i=py,java,mysql,kotlin,django,flask,spring,react,nodejs,express,html,css,js,jquery,firebase,c,wordpress,regex&perline=9">
             <img src="https://skillicons.dev/icons?i=py,java,mysql,kotlin,django,flask,spring,react,nodejs,express,html,css,js,jquery,firebase,c,wordpress,regex&perline=9" alt="My Skills">
@@ -22,15 +22,13 @@
             <img src="https://skillicons.dev/icons?i=vscode,idea,git,figma" alt="Developing Tools">
         </a>
     </div>
-    <div style="width: 50%;">
+    <div style="width: 50%;" align="right">
         <a href="https://app.daily.dev/Fury2K">
             <img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=ugd" width="300" align="right" alt="Fury's Dev Card">
         </a>
-        <div style="margin-top: 15px;">
-            <a href="https://github.com/FuryCode-bit">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuryCode-bit&layout=compact&theme=dracula" width="300" align="right">
-            </a>
-        </div>
+        <a href="https://github.com/FuryCode-bit">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuryCode-bit&layout=compact&theme=dracula" width="300" align="right">
+        </a>
     </div>
 </div>
 
