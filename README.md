@@ -19,7 +19,6 @@
 <h3 style="margin-bottom: 25px"> ⚙️ &nbsp;Tools Used </h3>
 
 [![Tools](https://skillicons.dev/icons?i=vscode,idea,git,figma)](https://skillicons.dev)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 </div>
 <br/>
 <div align="left">
