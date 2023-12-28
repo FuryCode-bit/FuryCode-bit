@@ -27,7 +27,7 @@
 [![Tools](https://skillicons.dev/icons?i=vscode,idea,git,figma)](https://skillicons.dev)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
     </div>
-    <div style="flex: 1; width: 300px">
+    <div style="flex: 1; width: 300px" align="right">
         <a href="https://app.daily.dev/Fury2K">
             <img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=ugd" width="300" alt="Fury's Dev Card"/>
         </a>
