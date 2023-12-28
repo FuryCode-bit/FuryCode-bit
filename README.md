@@ -10,7 +10,7 @@
 
 <h3> 🛠️ &nbsp;Skill Set </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,mysql,kotlin,django,flask,spring,react,nodejs,express,html,css,js,jquery,firebase,c,git,regex&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,nodejs,express,py,flask,django,java,spring,kotlin,firebase,mysql,git,c,regex&perline=9)](https://skillicons.dev)
 
 <h3 style="margin-bottom: 25px"> 💡 &nbsp;Utilities </h3>
 
