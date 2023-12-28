@@ -7,14 +7,10 @@
 - 💼 &nbsp; Fullstack Developer in the making at STAR Junior Enterprise
 - 🌱 &nbsp; “The greatest successes come from having the freedom to fail” - Mark Zuckerberg
 
-<div align="left">
+<div>
    <a href="https://app.daily.dev/Fury2K" style="margin-top: 30px">
      <img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=ugd" width="300" align="right" alt="Fury's Dev Card"/>
   </a>
-
-   <a href="https://github.com/FuryCode-bit">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuryCode-bit&layout=compact&theme=dracula">
-   </a>
 </div>
 
 <br/><h3> 🛠️ &nbsp;tools Used </h3>
@@ -28,6 +24,12 @@
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 <br>
+
+<div>
+   <a href="https://github.com/FuryCode-bit">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuryCode-bit&layout=compact&theme=dracula">
+   </a>
+</div>
 
 <h3> 🌎 &nbsp;Where can you find me: </h3> 
 
