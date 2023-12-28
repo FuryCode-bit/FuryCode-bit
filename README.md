@@ -14,10 +14,10 @@
 </div>
 
 <br/><h3> 🛠️ &nbsp;tools Used </h3>
-[![My Skills](https://skillicons.dev/icons?i=py,java,mysql,docker,kotlin,django,flask,spring,react,nodejs,express,html,css,js,firebase,c,wordpress,regex&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,mysql,kotlin,django,flask,spring,react,nodejs,express,html,css,js,jquery,firebase,c,wordpress,regex&perline=9)](https://skillicons.dev)
 
 <br/><h3 style="margin-bottom: 25px"> 💡 &nbsp;Utilities </h3>
-[![Utilities](https://skillicons.dev/icons?i=gcp,aws,arduino,raspberrypi,postman)](https://skillicons.dev)
+[![Utilities](https://skillicons.dev/icons?i=gcp,aws,arduino,raspberrypi,docker,postman)](https://skillicons.dev)
 
 <br/><h3 style="margin-bottom: 25px"> ⚙️ &nbsp;Developing Tools </h3>
   [![Tools](https://skillicons.dev/icons?i=vscode,idea,git,figma)](https://skillicons.dev)
