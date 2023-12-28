@@ -35,6 +35,9 @@
    <a href="https://app.daily.dev/Fury2K">
       <img src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=ugd" width="300" align="right" alt="Fury's Dev Card"/>
    </a>
+    <a href="https://github.com/FuryCode-bit">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuryCode-bit&layout=compact&theme=dracula" width="300" align="right">
+    </a>
 </div>
 </div>
 
