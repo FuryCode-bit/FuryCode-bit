@@ -18,7 +18,7 @@
         />
     </a>
 </div>
-<div align="left" style="width: 50%, margin-top: -200px">
+<div align="left" style="width: 50%, margin-top: -500px">
 <h3> 🛠️ &nbsp;tools Used </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,mysql,kotlin,django,flask,spring,react,nodejs,express,html,css,js,jquery,firebase,c,wordpress,regex&perline=6)](https://skillicons.dev)
