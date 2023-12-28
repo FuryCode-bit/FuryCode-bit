@@ -10,7 +10,7 @@
 
 <h3> 🛠️ &nbsp;tools Used </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,mysql,kotlin,django,flask,spring,react,nodejs,express,html,css,js,jquery,firebase,c,wordpress,regex&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,mysql,kotlin,django,flask,spring,react,nodejs,express,html,css,js,jquery,firebase,c,wordpress,regex&perline=9)](https://skillicons.dev)
 
 <h3 style="margin-bottom: 25px"> 💡 &nbsp;Utilities </h3>
 
