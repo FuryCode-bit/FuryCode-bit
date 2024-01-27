@@ -18,7 +18,7 @@
 
 <h3 style="margin-bottom: 25px"> ⚙️ &nbsp;Tools Used </h3>
 
-[![Tools](https://skillicons.dev/icons?i=vscode,idea,expo,github,figma)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,idea,github,figma)](https://skillicons.dev)
 </div>
 <br/>
 <div align="left">
