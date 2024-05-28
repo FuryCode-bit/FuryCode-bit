@@ -21,15 +21,15 @@
 [![Tools](https://skillicons.dev/icons?i=vscode,idea,github,figma)](https://skillicons.dev)
 </div>
 <br/>
-<div style="display: flex">
-    <a href="https://app.daily.dev/Fury2K" align="left">
+<div>
+    <a href="https://app.daily.dev/Fury2K">
         <img
             width="256"
             alt="Fury's Dev Card"
             src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=ugd" 
         />
     </a>
-    <a href="https://github.com/FuryCode-bit" align="right">
+    <a href="https://github.com/FuryCode-bit">
         <img 
         width="300"
         alt="Fury's stats"
