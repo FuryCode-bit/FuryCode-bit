@@ -33,7 +33,7 @@
         <img 
         width="300"
         alt="Fury's stats"
-        src="https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=FuryCode-bit&layout=compact&theme=dark&include_all_commits=true&hide_border=true&count_private=true&langs_count=6&hide=html,css,tex">
+        src="https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=FuryCode-bit&layout=compact&theme=dracula&include_all_commits=true&hide_border=true&count_private=true&langs_count=6&hide=html,css,tex">
     </a>
 </div>
 
