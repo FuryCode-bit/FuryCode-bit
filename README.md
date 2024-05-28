@@ -21,19 +21,19 @@
 [![Tools](https://skillicons.dev/icons?i=vscode,idea,github,figma)](https://skillicons.dev)
 </div>
 <br/>
-<div align="left">
-    <a href="https://app.daily.dev/Fury2K">
+<div style="display: flex">
+    <a href="https://app.daily.dev/Fury2K" align="left">
         <img
-            width="256" 
+            width="256"
             alt="Fury's Dev Card"
             src="https://api.daily.dev/devcards/7abab5c4eaf2448da2df1ff07f50b5e4.png?r=ugd" 
         />
     </a>
-    <a href="https://github.com/FuryCode-bit">
+    <a href="https://github.com/FuryCode-bit" align="right">
         <img 
         width="300"
         alt="Fury's stats"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuryCode-bit&layout=compact&theme=dracula">
+        src="[https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=FuryCode-bit&layout=compact&theme=dracula">
     </a>
 </div>
 
