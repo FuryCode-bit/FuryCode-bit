@@ -1,5 +1,5 @@
 
-<h2> Hi there, i'm Marco Bernardes but all my friends call me Fury :rocket: </h2>
+<h2> Hi there, i'm Marco Bernardes :rocket: </h2>
 
 <h3> :man: &nbsp;About me </h3>
 
