@@ -3,8 +3,8 @@
 
 <h3> :man: &nbsp;About me </h3>
 
-- 🤔 &nbsp; Developer from Lisbon and based in Covilhã
-- 🎓 &nbsp; Studying Computer Science and Engineering at <a href="https://www.ubi.pt">University of Beira interior</a>.
+<!-- - 🤔 &nbsp; Developer from Lisbon and based in Covilhã 
+- 🎓 &nbsp; Studying Computer Science and Engineering at <a href="https://www.ubi.pt">University of Beira interior</a>.-->
 - 💼 &nbsp; Tech enthusiast exploring the realms of Fullstack Development ✨
 - 🌱 &nbsp; “The greatest successes come from having the freedom to fail” - Mark Zuckerberg
 
