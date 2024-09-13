@@ -14,7 +14,7 @@
 
 <h3 style="margin-bottom: 25px"> 💡 &nbsp;Utilities </h3>
 
-[![Utilities](https://skillicons.dev/icons?i=aws,gcp,docker,raspberrypi,arduino,wordpress,postman)](https://skillicons.dev)
+[![Utilities](https://skillicons.dev/icons?i=aws,gcp,supabase,docker,raspberrypi,arduino,wordpress,postman)](https://skillicons.dev)
 
 <h3 style="margin-bottom: 25px"> ⚙️ &nbsp;Tools Used </h3>
 
