@@ -14,11 +14,11 @@
 
 <h3 style="margin-bottom: 25px"> 💡 &nbsp;Utilities </h3>
 
-[![Utilities](https://skillicons.dev/icons?i=aws,gcp,supabase,docker,raspberrypi,arduino,prometheus,grafana,wordpress,postman)](https://skillicons.dev)
+[![Utilities](https://skillicons.dev/icons?i=aws,gcp,supabase,docker,raspberrypi,arduino,prometheus,grafana,wordpress)](https://skillicons.dev)
 
 <h3 style="margin-bottom: 25px"> ⚙️ &nbsp;Tools Used </h3>
 
-[![Tools](https://skillicons.dev/icons?i=androidstudio,vscode,idea,github,gitlab,figma)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=androidstudio,vscode,idea,github,gitlab,postman,figma)](https://skillicons.dev)
 </div>
 <br/>
 <div>
