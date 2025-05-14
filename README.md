@@ -36,3 +36,7 @@
         src="https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=FuryCode-bit&layout=compact&theme=dracula&include_all_commits=true&hide_border=true&count_private=true&langs_count=6&hide=html,css,tex,jupyter%20notebook">
     </a>
 </div>
+<h2 align="left">Coding Activity</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FuryCode-bit&radius=16&theme=react&area=true&order=5%22%20height=%22300%22%20alt=%22activity-graph%20graph" height="300" alt="activity-graph graph"  />
+</div>
