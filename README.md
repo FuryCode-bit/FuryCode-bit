@@ -33,7 +33,7 @@
         <img 
         width="300"
         alt="Fury's stats"
-        src="https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=FuryCode-bit&layout=compact&theme=dracula&include_all_commits=true&hide_border=true&count_private=true&langs_count=6&hide=assembly,html,css,tex,jupyter%20notebook">
+        src="https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=FuryCode-bit&layout=compact&theme=dracula&exclude_repo=Writeups&hide_border=true&count_private=true&langs_count=6&hide=html,css,tex,jupyter%20notebook">
     </a>
 </div>
 <h2 align="left">Coding Activity</h2>
