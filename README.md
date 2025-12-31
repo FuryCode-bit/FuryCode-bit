@@ -85,6 +85,7 @@
 
 [![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)](#)
 [![OpenWRT](https://img.shields.io/badge/OpenWRT-002E5C?style=flat&logo=openwrt&logoColor=white)](#)
+[![PFsense](https://img.shields.io/badge/PFsense-212121?style=flat&logo=pfsense&logoColor=white)](#)
 ![FRRouting](https://img.shields.io/badge/FRRouting-00ADD8?style=flat&logo=linux&logoColor=white)
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)](#)
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)](#)
