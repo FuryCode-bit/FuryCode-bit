@@ -36,7 +36,7 @@
 [![AlertManager](https://img.shields.io/badge/AlertManager-E6522C?style=flat&logo=prometheus&logoColor=white)](#)
 [![Suricata](https://img.shields.io/badge/Suricata-EF3B24?style=flat&logo=suricata&logoColor=white)](#)
 [![ntopng](https://img.shields.io/badge/Ntopng-6B9BD2?style=flat&logo=ntopng&logoColor=white)](#)
-[![Wireshark](https://img.shields.io/badge/"Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)](#)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)](#)
 [![Owasp ZAP](https://img.shields.io/badge/ZAP-00549E?style=flat&logo=zap&logoColor=white)](#)
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)](#)
 
