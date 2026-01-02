@@ -18,6 +18,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 [![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)](#)
+![DroneCI](https://img.shields.io/badge/drone-212121?logo=drone&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](#)
 
@@ -30,10 +31,12 @@
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)](#)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](#)
 [![Wazuh](https://img.shields.io/badge/Wazuh-00a9e5?style=flat&logo=wazuh&logoColor=white)](#)
+[![Elastic Stack](https://img.shields.io/badge/elasticstack-005571?style=flat&logo=elasticstack&logoColor=white)](#)
 [![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=flat&logo=uptime-kuma&logoColor=white)](#)
 [![AlertManager](https://img.shields.io/badge/AlertManager-E6522C?style=flat&logo=prometheus&logoColor=white)](#)
 [![Suricata](https://img.shields.io/badge/Suricata-EF3B24?style=flat&logo=suricata&logoColor=white)](#)
 [![ntopng](https://img.shields.io/badge/ntopng-6B9BD2?style=flat&logo=ntopng&logoColor=white)](#)
+[![Wireshark](https://img.shields.io/badge/wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)](#)
 [![Owasp ZAP](https://img.shields.io/badge/ZAP-00549E?style=flat&logo=zap&logoColor=white)](#)
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)](#)
 
