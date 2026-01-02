@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=FuryCode-bit&color=006bed) 
 [![Website](https://img.shields.io/badge/Website-Check%20it-blue)](https://bernardes.netlify.app/) 
 
-## ⚙️ Infrastructure, Cloud & DevOps:
+## ⚙️ Infrastructure, Cloud & SRE:
 
 <div align="center">
 
