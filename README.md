@@ -33,7 +33,7 @@
 [![Wazuh](https://img.shields.io/badge/Wazuh-00a9e5?style=flat&logo=wazuh&logoColor=white)](#)
 [![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat&logo=elasticstack&logoColor=white)](#)
 [![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=flat&logo=uptime-kuma&logoColor=white)](#)
-[![CheckMK](https://img.shields.io/badge/checkmk-15D1A0?style=flat&logo=checkMK&logoColor=white)](#)
+[![CheckMK](https://img.shields.io/badge/CheckMK-15D1A0?style=flat&logo=checkMK&logoColor=white)](#)
 [![AlertManager](https://img.shields.io/badge/AlertManager-E6522C?style=flat&logo=prometheus&logoColor=white)](#)
 [![Suricata](https://img.shields.io/badge/Suricata-EF3B24?style=flat&logo=suricata&logoColor=white)](#)
 [![ntopng](https://img.shields.io/badge/Ntopng-6B9BD2?style=flat&logo=ntopng&logoColor=white)](#)
