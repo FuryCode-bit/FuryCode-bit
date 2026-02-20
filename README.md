@@ -101,6 +101,7 @@
 [![ESPHome](https://img.shields.io/badge/ESPHome-41BDF5?style=flat&logo=esphome&logoColor=white)](#)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)](#)
 [![Tailscale](https://img.shields.io/badge/Tailscale-5433FF?style=flat&logo=tailscale&logoColor=white)](#)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 </div>
 
