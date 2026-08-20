@@ -10,9 +10,11 @@
 <div align="center">
 
 [![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)](#)
+[![VMware](https://img.shields.io/badge/vSphere-607078?style=flat&logo=vmware&logoColor=white)](#)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 [![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)](#)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 ![DroneCI](https://img.shields.io/badge/DroneCI-212121?logo=drone&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](#)
@@ -33,6 +35,7 @@
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](#)
 [![Wazuh](https://img.shields.io/badge/Wazuh-00a9e5?style=flat&logo=wazuh&logoColor=white)](#)
 [![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat&logo=elasticstack&logoColor=white)](#)
+[![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat&logo=zabbix&logoColor=white)](#)
 [![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=flat&logo=uptime-kuma&logoColor=white)](#)
 [![CheckMK](https://img.shields.io/badge/CheckMK-15D1A0?style=flat&logo=checkMK&logoColor=white)](#)
 [![AlertManager](https://img.shields.io/badge/AlertManager-E6522C?style=flat&logo=prometheus&logoColor=white)](#)
@@ -89,6 +92,7 @@
 <div align="center">
 
 [![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)](#)
+[![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=flat&logo=fortinet&logoColor=white)](#)
 [![OpenWRT](https://img.shields.io/badge/OpenWRT-002E5C?style=flat&logo=openwrt&logoColor=white)](#)
 [![PFsense](https://img.shields.io/badge/PFsense-212121?style=flat&logo=pfsense&logoColor=white)](#)
 ![FRRouting](https://img.shields.io/badge/FRRouting-00ADD8?style=flat&logo=linux&logoColor=white)
