@@ -119,10 +119,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FuryCode-bit&radius=16&theme=react&area=true&order=5" width="100%" alt="activity-graph graph" />
-</div>
-
 <br/>
 
 ### 📫 Contact me:
